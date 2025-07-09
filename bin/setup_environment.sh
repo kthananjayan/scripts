@@ -3,3 +3,4 @@
 brew install rectangle
 brew install iterm2
 brew install flycut
+brew install visual-studio-code
